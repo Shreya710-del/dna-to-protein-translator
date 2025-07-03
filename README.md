@@ -51,6 +51,6 @@ Protein Sequence: Methionine-Alanine-Glutamic Acid
 
 Shreya Singh – 1st Year B.Sc. Biotechnology Student  
 🔗 [Link to Google Colab Notebook](#) *(you can paste it here later)*  
-📌 [View This Project on GitHub](https://github.com/your-username/dna-to-protein-translator)
+📌 [View This Project on GitHub](https://colab.research.google.com/drive/1eYhEzDnVMfN-eBjiXRSzfbMc9UG_mEsn#scrollTo=JLLyfSttzwis&line=7&uniqifier=1)
 
 
